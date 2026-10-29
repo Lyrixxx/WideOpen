@@ -1,0 +1,3 @@
+# index only: no build output or packages
+*.zip
+*.dll
