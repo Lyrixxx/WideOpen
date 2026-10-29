@@ -16,5 +16,8 @@ Ultrawide and wider (21:9, 32:9, ...) with no stretching and no black bars; inve
 the screen; better anti-aliasing; FOV options; startup skip; the engine's hidden render settings and
 developer menus.
 
+The game was made for 16:9: widescreen can show characters meant to be off screen (possible spoilers) and
+scenes that end at the edges; the fix's 16:9 mode keeps the original framing.
+
 - Download page and instructions: [WideOpen-TWAU-Remastered releases](https://github.com/Lyrixxx/WideOpen-TWAU-Remastered/releases)
 - Source: [WideOpen-TWAU-Remastered](https://github.com/Lyrixxx/WideOpen-TWAU-Remastered)
