@@ -10,6 +10,8 @@ Every fix is drag and drop: one file next to the game's exe, best settings alrea
 The Wolf Among Us Remastered ultrawide and wider
 ------------------------------------------------
 
+[![The Wolf Among Us Remastered at 32:9](screenshots/TheWolfAmongUsRemastered.webp)](https://github.com/Lyrixxx/WideOpen-TWAU-Remastered/releases)
+
 Ultrawide and wider (21:9, 32:9, ...) with no stretching and no black bars; inventory and menus fitted to
 the screen; better anti-aliasing; FOV options; startup skip; the engine's hidden render settings and
 developer menus.
